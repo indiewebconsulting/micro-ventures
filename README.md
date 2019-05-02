@@ -1,6 +1,8 @@
 # micro-ventures
 "Don't get too excited, you still aren't getting paid for this."
 
+![Micro Ventures](https://github.com/indiewebconsulting/micro-ventures/blob/master/CAABBC63-7987-47B9-8D06-ACF68EB13AE1.png)
+
 ## This repository has two purposes:
 - To always be starting something 
 - To let others know when you can start
